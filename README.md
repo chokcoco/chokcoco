@@ -1,4 +1,4 @@
-## :fire: Hey! I'm SbCo.
+## :fire: Hey! I'm SbCo. 
 
 + My blogs - [cnblogs](https://www.cnblogs.com/coco1s/) \ [juejin](https://juejin.im/)
 
@@ -6,9 +6,9 @@
 
 + CSS-Inspiration - [CSS-Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/)
 
-![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4&label=PV+Since+2020-10-18)
-
 [![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4&label=PV+Since+2020-10-18)
 
 <!--
 **chokcoco/chokcoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

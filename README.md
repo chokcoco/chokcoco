@@ -2,9 +2,9 @@
 
 [![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-+ My cnblogs - [cnblogs](https://www.cnblogs.com/coco1s/) 
++ My blogs - [cnblogs](https://www.cnblogs.com/coco1s/) \ [juejin](https://juejin.im/)
 
-+ My juejin - [juejin](https://juejin.im/)
++ My Codepen - [Codepen - Chokcoco](https://codepen.io/Chokcoco)
 
 + CSS-Inspiration - [CSS-Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/)
 

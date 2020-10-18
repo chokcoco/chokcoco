@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4)
+![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4&label=PV+Since+2020-10-18)
 
 [![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

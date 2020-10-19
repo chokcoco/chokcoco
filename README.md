@@ -1,4 +1,4 @@
-## :fire: Hey! I'm SbCo. 
+## :fire: Hey! This is SbCo. 
 
 + My blogs - [cnblogs](https://www.cnblogs.com/coco1s/) \ [juejin](https://juejin.im/)
 

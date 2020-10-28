@@ -1,6 +1,6 @@
 ## :fire: Hey! This is SbCo. 
 
-+ My blogs - [cnblogs](https://www.cnblogs.com/coco1s/) \ [juejin](https://juejin.im/)
++ My blogs - [cnblogs](https://www.cnblogs.com/coco1s/) \ [juejin](https://juejin.im/chokcoco)
 
 + My Codepen - [Codepen - Chokcoco](https://codepen.io/Chokcoco)
 

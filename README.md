@@ -1,4 +1,4 @@
-## :fire: Hey! This is SbCo. 
+## :fire: Hey! This is SbCo. ![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4&label=PV+Since+2020-10-18)
 
 + My blogs - [cnblogs](https://www.cnblogs.com/coco1s/) \ [juejin](https://juejin.im/user/2330620350437678)
 
@@ -6,11 +6,7 @@
 
 + CSS-Inspiration - [CSS-Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/)
 
-
-
 [![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4&label=PV+Since+2020-10-18)
 
 ## 想 Get 到最有意思的 CSS 资讯
 

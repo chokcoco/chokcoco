@@ -6,7 +6,11 @@
 
 + CSS-Inspiration - [CSS-Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/)
 
-[![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+## 想 Get 到最有意思的 CSS 咨询？
+
+欢迎关注下我的公众号，
+
+<img width=200 src="https://user-images.githubusercontent.com/8554143/54919342-6d0dfd00-4ef8-11e9-9ee8-fbae9241d89e.png">
 
 ![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4&label=PV+Since+2020-10-18)
 

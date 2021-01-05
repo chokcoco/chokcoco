@@ -10,7 +10,7 @@
 
 想 Get 到最有意思的 CSS 资讯，欢迎关注我的公众号 ↓↓ 😄
 
-<img width=100 src="https://user-images.githubusercontent.com/8554143/54919342-6d0dfd00-4ef8-11e9-9ee8-fbae9241d89e.png">
+<img width=160 src="https://user-images.githubusercontent.com/8554143/54919342-6d0dfd00-4ef8-11e9-9ee8-fbae9241d89e.png">
 
 <!--
 **chokcoco/chokcoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,20 @@
 ## :fire: Hey! This is SbCo. ![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4&label=PV+Since+2020-10-18)
 
-+ My blogs - [cnblogs](https://www.cnblogs.com/coco1s/) \ [juejin](https://juejin.im/user/2330620350437678)
-
-+ My Codepen - [Codepen - Chokcoco](https://codepen.io/Chokcoco)
-
-+ CSS-Inspiration - [CSS-Inspiration](https://chokcoco.github.io/CSS-Inspiration/#/)
+<a href="#coco1s">
+  <img align="left" alt="coco1s" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+</a>
+<a href="#308695699">
+  <img align="left" alt="308695699" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
+</a>
+<a href="https://github.com/chokcoco">
+  <img align="left" alt="chokcoco" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+</a>
+<a href="https://juejin.cn/user/2330620350437678">
+  <img align="left" alt="chokcoco" width="22px" src="https://github.com/chokcoco/chokcoco/blob/main/juejin.svg" />
+</a>
+<a href="https://codepen.io/Chokcoco">
+  <img align="left" alt="chokcoco" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
+</a>
 
 [![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 

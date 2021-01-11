@@ -3,19 +3,19 @@
 <br />
 
 <a href="#coco1s">
-  <img align="left" alt="coco1s" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
+  <img align="left" title="微信号-coco1s" alt="coco1s" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="#308695699">
-  <img align="left" alt="308695699" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
+  <img align="left" title="QQ-308695699" alt="308695699" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/tencentqq.svg" />
 </a>
 <a href="https://github.com/chokcoco">
-  <img align="left" alt="chokcoco" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
+  <img align="left" title="Github" alt="chokcoco" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/github.svg" />
 </a>
 <a href="https://juejin.cn/user/2330620350437678">
-  <img align="left" alt="chokcoco" width="22px" src="https://github.com/chokcoco/chokcoco/blob/main/juejin.svg" />
+  <img align="left" title="掘金" alt="chokcoco" width="22px" src="https://github.com/chokcoco/chokcoco/blob/main/juejin.svg" />
 </a>
 <a href="https://codepen.io/Chokcoco">
-  <img align="left" alt="chokcoco" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
+  <img align="left" title="Codepen" alt="chokcoco" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
 
 <br />

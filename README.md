@@ -1,4 +1,4 @@
-## :fire: Hey! This is SbCo. ![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4&label=PV+Since+2020-10-18)
+## :fire: Hey! This is SbCo. 
 
 <br />
 
@@ -17,6 +17,8 @@
 <a href="https://codepen.io/Chokcoco">
   <img align="left" title="Codepen" alt="chokcoco" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
+
+![](https://komarev.com/ghpvc/?username=chokcoco&color=ff69b4&label=PV+Since+2020-10-18)
 
 <br />
 

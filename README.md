@@ -2,7 +2,7 @@
 
 <br />
 
-<a href="#coco1s">
+<a href="https://raw.githubusercontent.com/chokcoco/chokcoco/main/coco_gzh.png">
   <img align="left" title="微信号-coco1s" alt="coco1s" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="#308695699">

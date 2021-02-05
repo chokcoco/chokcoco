@@ -26,7 +26,7 @@
 
 我运营了公众号[「iCSS 前端趣闻」](https://raw.githubusercontent.com/chokcoco/chokcoco/main/coco_gzh.png)，想 Get 到最有意思的 CSS 资讯，千万不要错过 😄
 
-<img width=160 src="https://user-images.githubusercontent.com/8554143/54919342-6d0dfd00-4ef8-11e9-9ee8-fbae9241d89e.png">
+<img width=160 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/gzh.png">
 
 <!--
 **chokcoco/chokcoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

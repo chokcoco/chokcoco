@@ -2,7 +2,7 @@
 
 <br />
 
-<a target="_blank" href="https://raw.githubusercontent.com/chokcoco/chokcoco/main/coco_gzh.png">
+<a target="_blank" href="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
   <img align="left" title="微信号-coco1s" alt="coco1s" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/wechat.svg" />
 </a>
 <a href="#308695699">
@@ -26,7 +26,7 @@
 
 我运营了公众号[「iCSS 前端趣闻」](https://raw.githubusercontent.com/chokcoco/chokcoco/main/coco_gzh.png)，想 Get 到最有意思的 CSS 资讯，千万不要错过 😄
 
-<img width=200 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/gzh_style.png">
+<img width=200 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
 
 <!--
 **chokcoco/chokcoco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

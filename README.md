@@ -1,4 +1,4 @@
-## :fire: Hey! This is SbCo. 
+## :fire: Hey! This is CoCo. 
 
 <br />
 

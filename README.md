@@ -22,20 +22,32 @@
 
 <br />
 
-[![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <table>
 <tr>
-<td width="70%">
+<td width="58%">
+
+[![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
   
 我的技术公众号[「iCSS 前端趣闻」](https://raw.githubusercontent.com/chokcoco/chokcoco/main/coco_gzh.png)，想 Get 到最有意思的 CSS 资讯，千万不要错过 😄
 
 <img width=200 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
 
+#### ✏️ [Recent Blog](https://chegva.com)
+
+- [单标签下的日间/黑夜模式切换按钮效果 - 2023-06-21](https://juejin.cn/post/7246917539766304829))
+- [现代 CSS 解决方案：CSS 原生支持的三角函数 - 2023-05-25](https://juejin.cn/post/7236903196147875877)
+- [超长溢出头部省略打点，坑这么大，技巧这么多？ - 2023-04-27](https://juejin.cn/post/7226540105698197563)
+- [涨姿势了，殊途同归的图片交互动效制作！ - 2023-04-24](https://juejin.cn/post/7225417805855965239)
+- [涨姿势了，有意思的气泡 Loading 效果 - 2023-04-13](https://juejin.cn/post/7221320687430942781)
+
 </td>
-<td width="30%">
-我的系统性 CSS 书籍 -- [《CSS 技术揭秘与实战通关》](https://s.juejin.cn/ds/yNAG9tt/)
-<img src="https://github.com/chokcoco/chokcoco/blob/main/xc.jpg?raw=true" width="200" >
+<td width="42%">
+  
+我的系统性 CSS 书籍 -- [「CSS 技术揭秘与实战通关」](https://s.juejin.cn/ds/yNAG9tt/)
+
+<img src="https://github.com/chokcoco/chokcoco/blob/main/xc.jpg?raw=true" width="320" >
 </td>
 </tr>
 </table>

@@ -32,7 +32,7 @@
 
 <img width=200 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
 
-#### ✏️ [Recent Blog](https://chegva.com)
+#### ✏️ [Recent Blog](https://juejin.cn/user/2330620350437678)
 
 - [单标签下的日间/黑夜模式切换按钮效果 - 2023-06-21](https://juejin.cn/post/7246917539766304829)
 - [现代 CSS 解决方案：CSS 原生支持的三角函数 - 2023-05-25](https://juejin.cn/post/7236903196147875877)

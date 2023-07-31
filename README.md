@@ -32,7 +32,7 @@
 
 我的技术公众号[「iCSS 前端趣闻」](https://raw.githubusercontent.com/chokcoco/chokcoco/main/coco_gzh.png)，想 Get 到最有意思的 CSS 资讯，千万不要错过 😄
 
-<img width=200 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
+<img width=300 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">
 
 #### ✏️ [Recent Blog](https://juejin.cn/user/2330620350437678/posts)
 
@@ -47,7 +47,7 @@
   
 <br />
   
-<img src="https://github.com/chokcoco/chokcoco/blob/main/xc.jpg?raw=true" width="340" >
+<img src="https://github.com/chokcoco/chokcoco/blob/main/xc.jpg?raw=true" width="300" >
 
 <br />
 

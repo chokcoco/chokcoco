@@ -25,9 +25,11 @@
 <table>
 <tr>
 <td width="58%">
-
-[![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
   
+<!--
+- [![Coco's github stats](https://github-readme-stats.vercel.app/api?username=chokcoco&hide=contribs,prs&count_private=true&show_icons=true&&bg_color=30,40941c,cb1597&title_color=fff&text_color=fff&icon_color=fc0)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
 我的技术公众号[「iCSS 前端趣闻」](https://raw.githubusercontent.com/chokcoco/chokcoco/main/coco_gzh.png)，想 Get 到最有意思的 CSS 资讯，千万不要错过 😄
 
 <img width=200 src="https://raw.githubusercontent.com/chokcoco/chokcoco/main/qrcode_big.png">

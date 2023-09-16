@@ -36,11 +36,12 @@
 
 #### ✏️ [Recent Blog](https://juejin.cn/user/2330620350437678/posts)
 
+- [【动画进阶】当路径动画遇到滚动驱动！ - 2023-09-14](https://juejin.cn/post/7278244755833946168)
+- [现代 CSS 解决方案：原生嵌套（Nesting）2023-09-11](https://juejin.cn/post/7276767683214901311)
 - [现代 CSS 解决方案：数学函数 Round - 2023-09-04](https://juejin.cn/post/7274257088267599927)
 - [震惊！CSS 也能实现碰撞检测？ - 2023-08-22](https://juejin.cn/post/7269797025863499837)
 - [抢先体验！超强的 Anchor Positioning 锚点定位 - 2023-08-15](https://juejin.cn/post/7267158769490214952)
-- [神奇的 3D 磨砂玻璃透视效果 - 2023-08-08](https://juejin.cn/post/7264531655654654015)
-- [【动画进阶】有意思的 Emoji 3D 表情切换效果 - 2023-08-01](https://juejin.cn/post/7262007830721413180)
+
 
 </td>
 <td width="42%">

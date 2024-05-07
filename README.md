@@ -37,7 +37,9 @@
 #### ✏️ [Recent Blog](https://juejin.cn/user/2330620350437678/posts)
 
 - [【动画进阶】巧用 CSS/SVG 实现复杂线条光效动画 - 2024-03-12](https://juejin.cn/post/7345105895930331147)
-- [【布局进阶】巧用 :has & drop-shadow 实现复杂布局效果 - 2024-03-07](https://juejin.cn/post/7342400998856065039)
+- [【动画进阶】极具创意的鼠标交互动画 - 2024-03-19](https://juejin.cn/post/7347626854617202724)
+- [【动画进阶】类 ChatGpt 多行文本打字效果 - 2024-04-18](https://juejin.cn/post/7358699186630737955)
+- [渐变边框文字效果？CSS 轻松拿捏！ - 2024-04-30](https://juejin.cn/post/7363220159505694747)
 
 </td>
 <td width="42%">
